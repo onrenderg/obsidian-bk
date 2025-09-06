@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Obsidian cache or temp files
+.obsidian/cache/
+.obsidian/workspace
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore node_modules if you have any plugins with npm dependencies
+node_modules/
+
+# Ignore log files
+*.log
