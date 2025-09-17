@@ -1,5 +1,13 @@
+
+[[Haks]]
+
+
+
 https://obsidian-base-deploy.vercel.app/
 
+
+
+[[CERS-basetwo-git-]]
 
 [[sep-5-mauiport]]
 [[maui-app]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70a0836f6034790f",
+        "id": "5f9ddf1f14d519ba",
         "type": "tabs",
         "children": [
           {
-            "id": "e9296d28eb333c9f",
+            "id": "72c12b3026405b3f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a6e50162e47436e",
@@ -163,9 +164,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "e9296d28eb333c9f",
+  "active": "72c12b3026405b3f",
   "lastOpenFiles": [
+    "CERS-basetwo-git-CERS.md",
+    "Haks.md",
     "home.md",
+    "prompt.md",
+    "SplashScreen.md",
+    "CERS-basetwo-git-.md",
     "sep-5-mauiport.md",
     "misc.md",
     "xam-port-maui.md",
