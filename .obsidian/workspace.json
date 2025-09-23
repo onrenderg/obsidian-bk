@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5f9ddf1f14d519ba",
+        "id": "30c35390a2f2e078",
         "type": "tabs",
         "children": [
           {
-            "id": "72c12b3026405b3f",
+            "id": "4b72c33a7c9184e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "windsurf-xam-naui-port.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "windsurf-xam-naui-port"
+            }
+          },
+          {
+            "id": "452725ea726a4303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sep22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sep22"
+            }
+          },
+          {
+            "id": "2020614e9dcdbaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xam-port-maui.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xam-port-maui"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vercel",
+                "query": "using Xamarin.Essentials;",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for _home"
             }
           },
           {
@@ -164,26 +198,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "72c12b3026405b3f",
+  "active": "452725ea726a4303",
   "lastOpenFiles": [
-    "CERS-basetwo-git-CERS.md",
-    "Haks.md",
-    "home.md",
-    "prompt.md",
-    "SplashScreen.md",
-    "CERS-basetwo-git-.md",
-    "sep-5-mauiport.md",
-    "misc.md",
     "xam-port-maui.md",
+    "sep22.md",
+    "windsurf-xam-naui-port.md",
+    "_nicvc.md",
+    "_home.md",
+    "sep-5-mauiport.md",
+    "Untitled 1.md",
+    "home.md",
+    "_cers.md",
+    "_baseapp.md",
+    "_gridport.md",
+    "_tsql_logic_isolation.md",
+    "_tsql_base1.md",
+    "apkflow-CERS.md",
+    "cers-finflow.md",
+    "cascaseOne.md",
+    "Untitled.md",
+    "CERS-basetwo-git-CERS.md",
+    "cers-flow1.md",
+    "cers-flow0.md",
+    "Haks.md",
+    "cascaseOneconcise.md",
+    "maui-ui.md",
+    "media-app.md",
     "xaml-xamlToMaui-kbase.md",
-    "aimd_dfdf.md",
-    "md_3322.md",
-    "0.md",
-    "det_8973.md",
-    "maui-app.md",
-    "rescourse-folder.md",
-    "raygun-one.md",
-    "md_34343.md",
+    "apkflow-CERS-concise.md",
     "home"
   ]
 }

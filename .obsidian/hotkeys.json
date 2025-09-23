@@ -7,10 +7,27 @@
       "key": "L"
     }
   ],
-  "backlink:open-backlinks": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "backlink:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "B"
     }
