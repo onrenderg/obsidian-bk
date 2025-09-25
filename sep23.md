@@ -4,6 +4,7 @@ Ah, I understand now! You want me to explain the syntax and keywords specificall
 
 
 
+[[masterprompr]]
 ############################
 
 
@@ -14,4 +15,4 @@ nice you giving purpose of sytax words block etc in curent stat6ment context
 [[tag_kldjfl]]
 
 no i mean in context for that stament the purpose may be different you give in comemnt right description
-[[tag_dfdf]]
+[[tag_dfdf]] 

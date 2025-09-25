@@ -79,12 +79,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tag_dfdf.md",
+                "file": "masterprompr.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "tag_dfdf"
+              "title": "masterprompr"
             }
           }
         ],
@@ -238,8 +248,18 @@
   },
   "active": "60056510575fe750",
   "lastOpenFiles": [
-    "AboutAssets.txt.md",
+    "tag_masr.md",
+    "masterprompr.md",
+    "tag_kjjqw.md",
+    "sep23.md",
     "tag_dfdf.md",
+    "tag_dfds.md",
+    "tag_kjja.md",
+    "tag_kjkjk.md",
+    "tag_kljkl.md",
+    "masterpromptr.md",
+    "master.md",
+    "AboutAssets.txt.md",
     "Styles.xaml.md",
     "Colors.xaml.md",
     "Package.appxmanifest.md",
@@ -254,16 +274,6 @@
     "AndroidManifest.xml.md",
     "MauiProgram.cs.md",
     "MainPage.xaml.cs.md",
-    "MainPage.xaml.md",
-    "App.xaml.xaml.md",
-    "sep23.md",
-    "tag_kldjfl.md",
-    "tag_lkdjsfl.md",
-    "_home.md",
-    "sep22.md",
-    "mauibasicStyle.md",
-    "mauibasicStyleMisc.md",
-    "windsurf-xam-naui-port.md",
     "home"
   ]
 }
