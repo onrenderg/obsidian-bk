@@ -79,3 +79,12 @@ System.Diagnostics.Debug.WriteLine
 
 # Check if we see the debug messages
 adb -s R9ZY40RDV0K logcat | findstr -i "Dashboard_Page"
+
+[[mauibasicLogic]]
+
+[[mauibasicStyle]]
+
+[[mauibasicStyleMisc]]
+
+
+

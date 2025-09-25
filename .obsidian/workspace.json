@@ -29,10 +29,34 @@
               "state": {
                 "file": "sep22.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "sep22"
+            }
+          },
+          {
+            "id": "8d127ef81b2e03d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERS-basetwo-git-CERS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CERS-basetwo-git-CERS"
             }
           },
           {
@@ -48,9 +72,23 @@
               "icon": "lucide-file",
               "title": "xam-port-maui"
             }
+          },
+          {
+            "id": "60056510575fe750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tag_dfdf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tag_dfdf"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "using Xamarin.Essentials;",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,34 +236,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "452725ea726a4303",
+  "active": "60056510575fe750",
   "lastOpenFiles": [
-    "xam-port-maui.md",
-    "sep22.md",
-    "windsurf-xam-naui-port.md",
-    "_nicvc.md",
+    "AboutAssets.txt.md",
+    "tag_dfdf.md",
+    "Styles.xaml.md",
+    "Colors.xaml.md",
+    "Package.appxmanifest.md",
+    "win_App.xaml.cs.md",
+    "App.xaml.cs.md",
+    "app.manifest.md",
+    "Program.cs.md",
+    "AppDelegate.cs.md",
+    "Info.plist.md",
+    "MainApplication.cs.md",
+    "MainActivity.cs.md",
+    "AndroidManifest.xml.md",
+    "MauiProgram.cs.md",
+    "MainPage.xaml.cs.md",
+    "MainPage.xaml.md",
+    "App.xaml.xaml.md",
+    "sep23.md",
+    "tag_kldjfl.md",
+    "tag_lkdjsfl.md",
     "_home.md",
-    "sep-5-mauiport.md",
-    "Untitled 1.md",
-    "home.md",
-    "_cers.md",
-    "_baseapp.md",
-    "_gridport.md",
-    "_tsql_logic_isolation.md",
-    "_tsql_base1.md",
-    "apkflow-CERS.md",
-    "cers-finflow.md",
-    "cascaseOne.md",
-    "Untitled.md",
-    "CERS-basetwo-git-CERS.md",
-    "cers-flow1.md",
-    "cers-flow0.md",
-    "Haks.md",
-    "cascaseOneconcise.md",
-    "maui-ui.md",
-    "media-app.md",
-    "xaml-xamlToMaui-kbase.md",
-    "apkflow-CERS-concise.md",
+    "sep22.md",
+    "mauibasicStyle.md",
+    "mauibasicStyleMisc.md",
+    "windsurf-xam-naui-port.md",
     "home"
   ]
 }
