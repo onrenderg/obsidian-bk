@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sep22.md",
+                "file": "_process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sep22"
+              "title": "_process"
             }
           },
           {
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,10 +246,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "60056510575fe750",
+  "active": "452725ea726a4303",
   "lastOpenFiles": [
-    "tag_masr.md",
+    "sep24.md",
+    "_process.md",
+    "_home.md",
+    "CERS-basetwo-git-CERS.md",
+    "xam-port-maui.md",
     "masterprompr.md",
+    "windsurf-xam-naui-port.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "sep22.md",
+    "tag_masr.md",
     "tag_kjjqw.md",
     "sep23.md",
     "tag_dfdf.md",
@@ -265,15 +274,6 @@
     "Package.appxmanifest.md",
     "win_App.xaml.cs.md",
     "App.xaml.cs.md",
-    "app.manifest.md",
-    "Program.cs.md",
-    "AppDelegate.cs.md",
-    "Info.plist.md",
-    "MainApplication.cs.md",
-    "MainActivity.cs.md",
-    "AndroidManifest.xml.md",
-    "MauiProgram.cs.md",
-    "MainPage.xaml.cs.md",
     "home"
   ]
 }

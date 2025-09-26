@@ -1,9 +1,49 @@
-adb -s R9ZY40RDV0K shell pm list packages | findstr -i nicvc
+
+## ## Logcat  crash etc log 
+
+
+adb -s R9ZY40RDV0K logcat -c
 adb -s R9ZY40RDV0K logcat | findstr -i "AndroidRuntime.*at "
 adb -s R9ZY40RDV0K logcat | findstr -i "AndroidRuntime.*at "
 
 dotnet build -f net8.0-android -t:Install
 dotnet build -f net8.0-android -c Release  -t:Install
+
+
+adb -s R9ZY40RDV0K logcat *:S AndroidRuntime:E ActivityManager:E
+
+
+adb -s R9ZY40RDV0K shell pm list packages | findstr -i nicvc
+
+
+dotnet build -f net8.0-android -c Debug -t:Install
+
+
+dotnet build -f net8.0-android -c Debug -t:Uninstall;Install -p:AdbInstallExtraArgs="--user 0"
+
+dotnet build -f net8.0-android -c Debug -t:Install -p:AdbInstallExtraArgs="--user 0"
+
+adb -s R9ZY40RDV0K install --user 0 .apk
+
+adb -s R9ZY40RDV0K shell pm list packages --user 150 | findstr -i nicvc
+
+
+
+adb -s R9ZY40RDV0K logcat | findstr -i "AndroidRuntime.*at "
+adb -s R9ZY40RDV0K logcat | findstr -i "AndroidRuntime.*at "
+
+dotnet build -f net8.0-android -t:Install
+dotnet build -f net8.0-android -c Release  -t:Install
+
+# ## Wanring only ouput 
+
+* **dotnet build --nologo -v q --property WarningLevel=0 /clp:ErrorsOnly**
+		dotnet build --nologo -v q --property WarningLevel=0 /clp:ErrorsOnly
+- `--nologo` suppresses the header
+- `-v q` sets output verbosity to quiet
+- `--property WarningLevel=0` is for MsBuild, and described well in other answers.
+- `/clp:ErrorsOnly` means **C**onsole**L**ogger**P**arameters
+
 # Try with specific device ID
 dotnet run -f net8.0-android --device R9ZY40RDV0K
 adb -s R9ZY40RDV0K logcat | findstr -i "nicvc\|crash\|exception"

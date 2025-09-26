@@ -1,9 +1,15 @@
 
+
+# Windsurf prompt pro 
+
+Use MultiEdit tool to edit local project files   or write_to_file tool:
+Rather create new file with same name just _new1 
+_
 # Dat
 
 * [[sep22]]
 * [[sep23]]
-
+* [[sep24]]
 
 
 ## BaseApp
