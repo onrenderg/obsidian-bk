@@ -1,5 +1,10 @@
 
 
+## prompt 
+
+checking what the main dashboard page uses for its navigation header and replicate that pattern.
+
+
 # App sepecfic vs general 
 
 # Process

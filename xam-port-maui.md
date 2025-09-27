@@ -1,4 +1,63 @@
+[[x10]]
 
+ error dialogs to the user, let me output the errors to the debug console/output screen
+# Poup err handling 
+Ah, I understand! You're asking about the code that shows error messages as popups in the app UI. Here are the places where I added popup error handling:
+
+## 🔍 **Error Popup Code I Added**
+
+### **1. In PostLoginDashboardPage.xaml.cs (Navigation Error Handling):**
+```csharp
+MainThread.BeginInvokeOnMainThread(() =>
+{
+    try
+    {
+        // Use mainWindow.Page instead of Navigation.PushAsync for FlyoutPage
+        mainWindow.Page = new NewUserRegistrationMasterPage(1);
+    }
+    catch (Exception ex)
+    {
+        DisplayAlert("Navigation Error", $"Failed to navigate: {ex.Message}", "OK");  // ← THIS POPUP
+    }
+});
+```
+
+### **2. Also in PostLoginDashboardPage.xaml.cs (Window Check Error):**
+```csharp
+else
+{
+    await DisplayAlert("Error", "Could not find main window", "OK");  // ← THIS POPUP
+}
+```
+
+### **3. In NewUserRegistrationMasterPage.xaml.cs (Page Loading Error):**
+```csharp
+catch (Exception ex)
+{
+    // Fallback to a simple page if PersonalDetailsPage fails
+    Detail = new NavigationPage(new ContentPage 
+    { 
+        Title = "Error",
+        Content = new Label 
+        { 
+            Text = $"Error loading page: {ex.Message}",  // ← THIS SHOWS ON PAGE (not popup)
+            HorizontalOptions = LayoutOptions.Center,
+            VerticalOptions = LayoutOptions.Center
+        }
+    });
+}
+```
+
+## 📱 **The Popup UI Code:**
+
+The `DisplayAlert()` method is what creates the popup dialogs you're seeing. It's a built-in MAUI method that shows:
+- **Title** (like "Navigation Error")
+- **Message** (the actual error details)
+- **Button** (like "OK")
+
+**So when you see error popups, they're coming from the `DisplayAlert()` calls I added to help debug what's going wrong with the navigation.**
+
+Is this what you were asking about? Or do you want me to remove these error popups?
 ## ## Logcat  crash etc log 
 
 
