@@ -131,16 +131,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_public.md",
+                "file": "cers-flow-dbb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_public"
+              "title": "cers-flow-dbb"
+            }
+          },
+          {
+            "id": "1b04214ef803495f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "windsurf-xam-naui-port.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "windsurf-xam-naui-port"
+            }
+          },
+          {
+            "id": "93e151b7fa70f5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stepbysteploggin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stepbysteploggin"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -172,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FATAL EXCEPTION",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,11 +221,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a6e50162e47436e",
@@ -286,34 +316,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba1a6c2d646b18ee",
+  "active": "93e151b7fa70f5fc",
   "lastOpenFiles": [
-    "tagcrashlogic.md",
-    "_public.md",
-    "datepickerlogic.md",
-    "datePiceker.md",
-    "sep28.md",
-    "masterprompr.md",
-    "_home.md",
-    "x10.md",
-    "xam-port-maui.md",
+    "oct.md",
+    "stepbysteploggin.md",
+    "cers-flow-dbb.md",
+    "sep22.md",
+    "use1.md",
     "windsurf-xam-naui-port.md",
+    "Untitled 5.md",
+    "x10.md",
+    "datePiceker.md",
+    "masterprompr.md",
+    "_public.md",
     "_process.md",
-    "sep24.md",
     "CERS-basetwo-git-CERS.md",
+    "sep30.md",
+    "cers-flow-db.md",
+    "tagcrashlogic.md",
+    "datepickerlogic.md",
+    "sep28.md",
+    "_home.md",
+    "xam-port-maui.md",
+    "sep24.md",
     "Untitled 3.md",
     "Untitled 4.md",
-    "sep22.md",
     "tag_masr.md",
     "tag_kjjqw.md",
     "sep23.md",
-    "tag_dfdf.md",
-    "tag_dfds.md",
-    "tag_kjja.md",
-    "tag_kjkjk.md",
-    "tag_kljkl.md",
-    "masterpromptr.md",
-    "master.md",
     "home"
   ]
 }

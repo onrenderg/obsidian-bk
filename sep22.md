@@ -36,7 +36,7 @@ adb -s R9ZY40RDV0K logcat | findstr -i "AndroidRuntime.*at "
 # Test the app
 adb -s R9ZY40RDV0K logcat -c
 adb -s R9ZY40RDV0K logcat | findstr -i "FATAL EXCEPTION\|AndroidRuntime.*at.*NICVC\|Prefixed"
-
+adb -s R9ZY40RDV0K logcat | findstr -i "FATAL EXCEPTION\|AndroidRuntime.*at.*CERS\|Prefixed"
 # Launch app
 adb -s R9ZY40RDV0K shell am start -n com.companyname.nicvc/crc64a73e961ec6240ec4.MainActivity
 
