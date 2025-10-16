@@ -1,5 +1,5 @@
-
-
+[[__home]]
+[[procedurebase]]
 # Windsurf prompt pro 
 
 Use MultiEdit tool to edit local project files   or write_to_file tool:
@@ -12,6 +12,9 @@ _
 * [[sep24]]
 * [[sep28]]
 [[oct10]] nicvc
+* [[oct13]]
+
+[[agn]]
 ## BaseApp
 
 [[_baseapp]]
