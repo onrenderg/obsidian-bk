@@ -21,5 +21,7 @@ with  generic structure of maui control tags like
 contentpage
 navpage.titlview
 
+ [[xaml.json]] 
+[[oct17]]
 
 
