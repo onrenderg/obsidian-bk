@@ -291,3 +291,6 @@ namespace NICVC
 ```
 
 This recreates the UI using modern MAUI tags. Adjust properties (e.g., colors, images) to match your exact design. If the image differs, provide more details for refinements!
+
+
+[[xaml.json]]

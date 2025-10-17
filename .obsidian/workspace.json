@@ -11,13 +11,86 @@
             "id": "5ae9143bcc2937b3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In recent .NET MAUI versions (e.g., .NET 8+),.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "In recent .NET MAUI versions (e.g., .NET 8+),"
+            }
+          },
+          {
+            "id": "692e277043ac22fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xaml.json.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "xaml.json"
+            }
+          },
+          {
+            "id": "7638c40ecc246815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__xaml_styling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "__xaml_styling"
+            }
+          },
+          {
+            "id": "900b6c47d74bb66d",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tmp",
+                "query": "snippet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +238,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ae9143bcc2937b3",
+  "active": "7638c40ecc246815",
   "lastOpenFiles": [
+    "Krash.md",
+    "xaml.json.md",
+    "__xaml_styling.md",
+    "oct17.md",
+    "In recent .NET MAUI versions (e.g., .NET 8+),.md",
+    "__maui_debug.md",
+    "__home.md",
+    "__maui_table_basee.md",
     "windsurf-xam-naui-port.md",
     "_process.md",
     "CERS-basetwo-git-CERS.md",
@@ -185,14 +266,6 @@
     "datePiceker.md",
     "stepbysteploggin.md",
     "__app.xaml.md",
-    "__stori_nivcTmpPage.md",
-    "__home.md",
-    "In recent .NET MAUI versions (e.g., .NET 8+),.md",
-    "__maui_table_basee.md",
-    "__maui_debug.md",
-    "__tmppage.xaml.cs.md",
-    "home.md",
-    "__app.xaml.cs.md",
     "Pasted image 20251016110443.png",
     "Pasted image 20251016110421.png",
     "home"
